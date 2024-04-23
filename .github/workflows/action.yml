@@ -8,6 +8,6 @@ jobs:
 	echo:
     	runs-on: ubuntu-22.04
         steps:
-        	- uses: RuffaloLavoisier/Builvery@master
+        	- uses: RuffaloLavoisier/Builvery@main
               with:
-              	say: test demo repository
+              	title: test demo repository
